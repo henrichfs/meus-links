@@ -15,7 +15,7 @@ body {
 
 #container {
     background-color: orangered;
-    min-height: 800px;
+    min-height: 600px;
     width: 400px;  
     border-radius: 25px;
     border: 1px solid black;
